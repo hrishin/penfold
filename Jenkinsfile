@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-@Library('github.com/fabric8io/osio-pipeline@master')_
+@Library('github.com/hrishin/osio-pipeline@iss#43-build-event')_
 osio {
     config runtime: 'node'
 
